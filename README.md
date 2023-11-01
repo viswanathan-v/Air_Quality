@@ -14,8 +14,12 @@ Procedure to Develop the project for Air Quality using PM2.5 sensor and ESP8266 
 7. Data retrieval takes place within the application.
 8. Project can be executed by running the *Index.html*.
 
-Output Snapshots:
+
+**Data transmission platform - thingspeak:**
 ![image](https://github.com/viswanathan-v/Air_Quality/assets/98252535/36bd65b7-6d12-4051-a6f7-aabc01432a2e)
+**Output Snapshots:**
+![image](https://github.com/viswanathan-v/Air_Quality/assets/98252535/2d56a014-4475-4340-bc76-075960f65779)
+
 
 
 
